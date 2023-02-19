@@ -10,3 +10,4 @@ The first part is about the basics of Data Science and consists of:
 3- Mastering Probability and Statistics in Python
 
 In this part, I have learned how to work with Pandas, Numpy, Matplotlib, SK Learn, Bokeh, and Seaborn.
+This repository is just my practices and quizes of this course.
