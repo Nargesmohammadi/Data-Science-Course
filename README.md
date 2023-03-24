@@ -1,4 +1,4 @@
-# Data-science-practice
+# Data-science-course
 This repository is the first part of the Data Science & Machine Learning(Theory+Projects)A-Z 90 hours of the AI Science Team from Udemy.
 
 The first part is about the basics of Data Science and consists of:
