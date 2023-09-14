@@ -1,6 +1,5 @@
 # Data Science & Machine Learning Course (Udemy)
 
-Welcome to the Data Science & Machine Learning Course! This course is brought to you by the AI Science Team on Udemy, and it provides a comprehensive introduction to data science and machine learning. With over 90 hours of content, this course covers everything from the basics of data science to advanced machine learning techniques.
 
 ## Course Contents
 
@@ -15,6 +14,3 @@ The course is divided into several sections, each covering a different area of d
 
 Each section includes theory as well as practical projects to help you apply what you've learned.
 
-## Getting Started
-
-To get started with this course, you need to enroll in the course on Udemy and download the course materials provided by the instructors. Once you've downloaded the materials, you can start exploring the course contents.
