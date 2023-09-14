@@ -12,5 +12,4 @@ The course is divided into several sections, each covering a different area of d
     Section 5: Natural Language Processing (NLP): In this section, you'll learn how to use NLP techniques to work with text data.
     Section 6: Deep Learning: In this section, you'll learn how to use deep learning techniques, including neural networks and convolutional neural networks (CNNs), to solve complex problems.
 
-Each section includes theory as well as practical projects to help you apply what you've learned.
 
